@@ -12,6 +12,10 @@ This project is a PySpark-based data engineering pipeline that reads raw financi
 
 ## Example Output
 
-| company | year | net_profit_margin | return_on_equity | ... |
-|---------|------|-------------------|------------------|-----|
-| GOOGLE  | 2024 |        35%        |       21%        | ... |
+| company | current_ratio | debt_to_equity | net_profit_margin | return_on_equity |
+|---------|--------------|----------------|-------------------|------------------|
+| INTEL   | 1.33         | 8.87           | -0.35             | -0.18            |
+| GOOGLE  | 1.84         | 0.39           | 0.29              | 0.31             |
+| NVIDIA  | 4.44         | 0.41           | 0.56              | 0.92             |
+| AMD     | 2.62         |                | 0.06              | 0.03             |
+
