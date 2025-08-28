@@ -17,5 +17,4 @@ This project is a PySpark-based data engineering pipeline that reads raw financi
 | INTEL   | 1.33         | 8.87           | -0.35             | -0.18            |
 | GOOGLE  | 1.84         | 0.39           | 0.29              | 0.31             |
 | NVIDIA  | 4.44         | 0.41           | 0.56              | 0.92             |
-| AMD     | 2.62         |                | 0.06              | 0.03             |
 
