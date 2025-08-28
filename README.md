@@ -1,6 +1,6 @@
 # Financial Ratios PySpark Pipeline
 
-This project is a PySpark-based data engineering pipeline that reads raw financial statement CSVs (Profit & Loss, Balance Sheet, Cash Flow) for a company from Google Cloud Storage, cleans and transforms the data, calculates standard financial ratios, and writes the results to a Google BigQuery table.
+This project is a PySpark-based data engineering pipeline that reads raw financial statement CSVs (Profit & Loss, Balance Sheet, Cash Flow) for a company from Google Cloud Storage, cleans and transforms the data, calculates standard financial ratios, and writes the results to a Google BigQuery table. The pipeline can be run locally or on a distributed Spark cluster such as Google Cloud Dataproc.
 
 ## Features
 
@@ -9,6 +9,7 @@ This project is a PySpark-based data engineering pipeline that reads raw financi
 - Calculates key financial ratios (profitability, leverage, returns, etc.)
 - Modular Python code using classes for easy maintenance
 - Loads results directly into BigQuery for reporting
+- Supports running on Google Cloud Dataproc for scalability
 
 ## Example Output
 
