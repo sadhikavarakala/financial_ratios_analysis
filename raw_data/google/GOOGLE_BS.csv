@@ -1,0 +1,88 @@
+,Q4 2018,Q4 2019,Q4 2020,Q4 2021,Q4 2022,Q4 2023,Q4 2024
+,2018-12-31,2019-12-31,2020-12-31,2021-12-31,2022-12-31,2023-12-31,2024-12-31
+Data Model,0,0,0,0,0,0,0
+"Cash, Cash Equivalents & Short Term Investments",109140,119675,136694,139649,113762,110916,95657
+Cash & Cash Equivalents,16701,18498,26465,20945,21879,24048,23466
+Short Term Investments,92439,101177,110229,118704,91883,86868,72191
+Accounts & Notes Receivable,20838,25326,30930,39304,40258,47964,52340
+"Accounts Receivable, Net",20838,25326,30930,39304,40258,47964,52340
+"Notes Receivable, Net",,,,,,,
+Unbilled Revenues,,,,,,,
+Inventories,1107,999,728,1170,,,
+Raw Materials,,,,,,,
+Work In Process,,,,,,,
+Finished Goods,,,,,,,
+Other Inventory,,,,,,,
+Other Short Term Assets,4591,6578,5944,8020,10775,12650,15714
+Prepaid Expenses,4236,,,,,,
+Derivative & Hedging Assets (Short Term),,,,,,,
+Assets Held-for-Sale,,,,,,,
+Deferred Tax Assets (Short Term),,,,,,,
+Income Taxes Receivable,355,2166,454,,,,
+Discontinued Operations (Short Term),,,,,,,
+Miscellaneous Short Term Assets,,4412,5490,8020,10775,12650,15714
+Total Current Assets,135676,152578,174296,188143,164795,171530,163711
+"Property, Plant & Equipment, Net",59719,73646,84749,97599,112668,134345,171036
+"Property, Plant & Equipment",,,,,,,
+Accumulated Depreciation,,,,,,,
+Long Term Investments & Receivables,13859,13078,20703,29549,30492,31008,37982
+Long Term Investments,,,,,,,
+Long Term Marketable Securities,,,,,,,
+Long Term Receivables,,,,,,,
+Other Long Term Assets,23538,36607,39868,43977,57309,65509,77527
+Intangible Assets,,1979,1445,1417,,,
+Goodwill,17888,20624,21175,22956,28960,29198,31885
+Other Intangible Assets,2220,,,,,,
+Prepaid Expense,,,,,,,
+Deferred Tax Assets (Long Term),737,721,1084,1284,5261,12169,17180
+Derivative & Hedging Assets (Long Term),,,,,,,
+Prepaid Pension Costs,,,,,,,
+Discontinued Operations (Long Term),,,,,,,
+Investments in Affiliates,,,,,,,
+Miscellaneous Long Term Assets,2693,13283,16164,18320,23088,24142,28462
+Total Noncurrent Assets,97116,123331,145320,171125,200469,230862,286545
+Total Assets,232792,275909,319616,359268,365264,402392,450256
+Payables & Accruals,32836,43313,54291,60966,65392,77677,84086
+Accounts Payable,4378,5561,5589,6037,5128,7493,7987
+Accrued Taxes,69,274,1485,,,,
+Interest & Dividends Payable,,,,,,,
+Other Payables & Accruals,28389,37478,47217,54929,60264,70184,76099
+Short Term Debt,,,,,,,
+Short Term Borrowings,,,,,,,
+Short Term Capital Leases,,,,,,,
+Current Portion of Long Term Debt,,,,,,,
+Other Short Term Liabilities,1784,1908,2543,3288,3908,4137,5036
+Deferred Revenue (Short Term),,1908,2543,3288,3908,4137,5036
+Liabilities from Derivatives & Hedging (Short Term),,,,,,,
+Deferred Tax Liabilities (Short Term),,,,,,,
+Liabilities from Discontinued Operations (Short Term),,,,,,,
+Miscellaneous Short Term Liabilities,1784,,,,,,
+Total Current Liabilities,34620,45221,56834,64254,69300,81814,89122
+Long Term Debt,4012,4554,13932,14817,14701,11870,10883
+Long Term Borrowings,,,,,,,
+Long Term Capital Leases,,,,,,,
+Other Long Term Liabilities,16532,24692,26306,28562,25119,25329,25167
+Accrued Liabilities,,,,,,,
+Pension Liabilities,,,,,,,
+Pensions,,,,,,,
+Other Post-Retirement Benefits,,,,,,,
+Deferred Compensation,,,,,,,
+Deferred Revenue (Long Term),396,358,481,535,599,,
+Deferred Tax Liabilities (Long Term),12591,11586,12410,14433,9772,8474,8782
+Liabilities from Derivatives & Hedging (Long Term),,,,,,,
+Liabilities from Discontinued Operations (Long Term),,,,,,,
+Miscellaneous Long Term Liabilities,3545,12748,13415,13594,14748,16855,16385
+Total Noncurrent Liabilities,20544,29246,40238,43379,39820,37199,36050
+Total Liabilities,55164,74467,97072,107633,109120,119013,125172
+Preferred Equity,0,0,,0,0,0,0
+Share Capital & Additional Paid-In Capital,45049,50552,58510,61774,68184,76534,84800
+Common Stock,,,,,,,
+Additional Paid in Capital,,,,,,,
+Other Share Capital,,,,,,,
+Treasury Stock,,,,,,,
+Retained Earnings,134885,152122,163401,191484,195563,211247,245084
+Other Equity,-2306,-1232,633,-1623,-7603,-4402,-4800
+Equity Before Minority Interest,177628,201442,222544,251635,256144,283379,325084
+Minority Interest,,,,,,,
+Total Equity,177628,201442,222544,251635,256144,283379,325084
+Total Liabilities & Equity,232792,275909,319616,359268,365264,402392,450256

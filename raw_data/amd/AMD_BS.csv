@@ -1,0 +1,88 @@
+,Q4 2018,Q4 2019,Q4 2020,Q4 2021,Q4 2022,Q4 2023,Q4 2024
+,2018-12-31,2019-12-31,2020-12-31,2021-12-31,2022-12-31,2023-12-31,2024-12-31
+Data Model,0,0,0,0,0,0,0
+"Cash, Cash Equivalents & Short Term Investments",1156,1503,2290,3608,5855,5773,5132
+Cash & Cash Equivalents,1078,1466,1595,2535,4835,3933,3787
+Short Term Investments,78,37,695,1073,1020,1840,1345
+Accounts & Notes Receivable,1235,1859,2066,2706,4126,4323,6192
+"Accounts Receivable, Net",1235,1859,2066,2706,4126,4323,6192
+"Notes Receivable, Net",,,,,,,
+Unbilled Revenues,,,,,,,
+Inventories,845,982,1399,1955,3771,4351,5734
+Raw Materials,,,,,,,
+Work In Process,,,,,,,
+Finished Goods,,,,,,,
+Other Inventory,,,,,,,
+Other Short Term Assets,304,253,388,314,1267,2321,1991
+Prepaid Expenses,57,233,378,312,1265,2312,1991
+Derivative & Hedging Assets (Short Term),,,,,,,
+Assets Held-for-Sale,,,,,,,
+Deferred Tax Assets (Short Term),,,,,,,
+Income Taxes Receivable,,,,,,,
+Discontinued Operations (Short Term),,,,,,,
+Miscellaneous Short Term Assets,247,20,10,2,2,9,
+Total Current Assets,3540,4597,6143,8583,15019,16768,19049
+"Property, Plant & Equipment, Net",348,500,641,702,1513,1589,1802
+"Property, Plant & Equipment",,,,,,,
+Accumulated Depreciation,,,,,,,
+Long Term Investments & Receivables,58,58,63,69,83,99,
+Long Term Investments,,,,,,,
+Long Term Marketable Securities,,,,,,,
+Long Term Receivables,,,,,,,
+Other Long Term Assets,610,873,2115,3065,50965,49429,48375
+Intangible Assets,,,,,24118,21363,18930
+Goodwill,289,289,289,289,24177,24262,24839
+Other Intangible Assets,,,,,,,
+Prepaid Expense,,,,,,,
+Deferred Tax Assets (Long Term),,22,1245,931,58,366,688
+Derivative & Hedging Assets (Long Term),,,,,,,
+Prepaid Pension Costs,,,,,,,
+Discontinued Operations (Long Term),,,,,,,
+Investments in Affiliates,,,,,,,
+Miscellaneous Long Term Assets,321,562,581,1845,2612,3438,3918
+Total Noncurrent Assets,1016,1431,2819,3836,52561,51117,50177
+Total Assets,4556,6028,8962,12419,67580,67885,69226
+Payables & Accruals,1291,2285,2342,3830,6033,5500,6726
+Accounts Payable,528,988,468,1321,2493,2055,2466
+Accrued Taxes,,,,,,,
+Interest & Dividends Payable,,,,,,,
+Other Payables & Accruals,763,1297,1874,2509,3540,3445,4260
+Short Term Debt,136,,,312,,751,
+Short Term Borrowings,,,,,,,
+Short Term Capital Leases,,,,,,,
+Current Portion of Long Term Debt,,,,,,,
+Other Short Term Liabilities,557,74,75,98,336,438,555
+Deferred Revenue (Short Term),,,,,,,
+Liabilities from Derivatives & Hedging (Short Term),,,,,,,
+Deferred Tax Liabilities (Short Term),,,,,,,
+Liabilities from Discontinued Operations (Short Term),,,,,,,
+Miscellaneous Short Term Liabilities,557,74,75,98,336,438,555
+Total Current Liabilities,1984,2359,2417,4240,6369,6689,7281
+Long Term Debt,1114,486,330,1,2467,1717,1721
+Long Term Borrowings,,,,,,,
+Long Term Capital Leases,,,,,,,
+Other Long Term Liabilities,192,356,378,681,3994,3587,2656
+Accrued Liabilities,,,,,,,
+Pension Liabilities,,,,,,,
+Pensions,,,,,,,
+Other Post-Retirement Benefits,,,,,,,
+Deferred Compensation,,,,,,,
+Deferred Revenue (Long Term),,,,,,,
+Deferred Tax Liabilities (Long Term),0,,,12,1934,1202,349
+Liabilities from Derivatives & Hedging (Long Term),,,,,,,
+Liabilities from Discontinued Operations (Long Term),,,,,,,
+Miscellaneous Long Term Liabilities,192,356,378,669,2060,2385,2307
+Total Noncurrent Liabilities,1306,842,708,682,6461,5304,4377
+Total Liabilities,3290,3201,3125,4922,12830,11993,11658
+Preferred Equity,,,,,,,
+Share Capital & Additional Paid-In Capital,8760,9975,10556,11081,58021,59693,61379
+Common Stock,,,,,,,
+Additional Paid in Capital,,,,,,,
+Other Share Capital,,,,,,,
+Treasury Stock,-50,-53,-131,-2130,-3099,-4514,-6106
+Retained Earnings,-7436,-7095,-4605,-1451,-131,723,2364
+Other Equity,-8,,17,-3,-41,-10,-69
+Equity Before Minority Interest,1266,2827,5837,7497,54750,55892,57568
+Minority Interest,,,,,,,
+Total Equity,1266,2827,5837,7497,54750,55892,57568
+Total Liabilities & Equity,4556,6028,8962,12419,67580,67885,69226
